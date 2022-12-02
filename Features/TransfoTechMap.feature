@@ -1,10 +1,6 @@
 Feature: TransfoTech map feature
 
-
-
 Scenario: Test Map can see larger view
-
-
 
 Given user is in Home Page 
 When user scroll down to the buttom of the page

@@ -1,4 +1,4 @@
-package verificationPackage;
+package testRunner;
 
 import org.junit.runner.RunWith;
 
@@ -15,8 +15,6 @@ import io.cucumber.junit.CucumberOptions;
 	monochrome = true
 
 	)
-
-
 
 public class BDDTestRunner {
 	
