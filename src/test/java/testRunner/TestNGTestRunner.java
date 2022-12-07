@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 		                  
 		glue  = {"stepDefination"},
 		plugin = {"pretty","html:target/Cucumber_Report.html"}, 
-		tags = "~@SanityTest",
+		tags = "@SmokeTest",
 		dryRun = false,
 		monochrome = true
 		

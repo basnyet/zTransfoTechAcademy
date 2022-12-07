@@ -1,7 +1,7 @@
 Feature: TransfoTech About Us functionality 
 
 
-@SmokeTest
+@SanityTest
 Scenario: Test for About US key clickable 
 
 	Given user is in the Home page 
